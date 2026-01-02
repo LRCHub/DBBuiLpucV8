@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "千変万華 (104期Ver.)",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-01-02T16:15:37.220373Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "千変万華 (104期Ver.)",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_千変万華_(104期Ver.)_スリーズブーケ.txt"
+    }
+  ]
+}
